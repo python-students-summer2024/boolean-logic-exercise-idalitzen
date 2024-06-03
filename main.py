@@ -1,6 +1,5 @@
 from solutions import *
 
-
 def main():
     # call the is_sweltering() function and output a response
     if is_sweltering():
